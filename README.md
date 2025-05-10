@@ -1,2 +1,1 @@
-"# Mobile-App-Dev" 
-"# Mobile-App-Dev" 
+### Simple Android Application with Basic Functionalities
